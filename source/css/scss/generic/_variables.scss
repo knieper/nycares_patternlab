@@ -8,7 +8,7 @@ $gray-light : #f9f9f9;
 $gray-light-2 : #eee;
 $gray-light-3 : #ddd;
 $gray-med : #666;
-$gray-dark : #333;
+$gray-dark: #3B3B3B; //$gray-dark : #333; //from website use
 $gray-dark-2 : #131313;
 $white : #fff;
 $black : #000;
@@ -30,7 +30,7 @@ $light-neutral: #F5F5F5; //almost white
 
 //Typography
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700');
-$font : "Open Sans", "Arial", sans-serif;
+$font: "Open Sans", "Arial", sans-serif;
 $font-secondary : Georgia, Times, "Times New Roman", serif;
 
 $font-size-small : 0.75em;
